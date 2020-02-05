@@ -1,0 +1,43 @@
+body {
+    background-color: rgba(102, 187, 144, 0.986);
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10;
+
+    /* 1 number = control all margins
+       2 number = first number control top + bot, second number control left + right
+       3 number = first number control top, second number control left + right, third number control bot
+       4 number = top, right, bottom, left (In order of number) */
+    margin: 100;
+    
+}
+a {
+    color: rgb(124, 0, 128);
+    text-decoration: none;    
+}
+
+a:hover {
+    color: greenyellow;
+    /* can change the font-size of the hover link */ 
+}
+
+#images {
+    background-color: khaki;
+    margin: 0;
+    text-align: center;
+}
+
+#images img {
+    max-width: 100%;
+    margin: 25px 0;
+}
+/* ul remove bullet points 
+ul {
+    list-style-type: none;
+    padding: 0; remove the spaces of the bullet 
+} 
+
+
+li {
+    margin: 25px 0 0 0; 
+}*/

@@ -8,7 +8,7 @@ body {
        2 number = first number control top + bot, second number control left + right
        3 number = first number control top, second number control left + right, third number control bot
        4 number = top, right, bottom, left (In order of number) */
-    margin: 100;
+    margin: 20px;
     
 }
 a {
@@ -31,6 +31,17 @@ a:hover {
     max-width: 100%;
     margin: 25px 0;
 }
+
+
+
+
+
+
+
+
+
+
+
 /* ul remove bullet points 
 ul {
     list-style-type: none;

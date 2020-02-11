@@ -1,3 +1,6 @@
+h1 {
+    color:rgb(231, 203, 108);
+}
 body {
     background-image: url("bg1.png");     
     height: 100%;     
@@ -7,7 +10,7 @@ body {
 
     /* background-color: rgba(102, 187, 144, 0.986); */
 
-    color: black;
+    color: rgb(48, 163, 25);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 10;
 
@@ -19,7 +22,7 @@ body {
 
 
 a {
-    color: rgb(124, 0, 128);
+    color: rgb(199, 188, 31);
     text-decoration: none;    
 }
 

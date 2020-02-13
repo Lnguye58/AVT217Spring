@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+.container {
+    width: 50px;
+    height: 100px;
+}
+.block-1, .block-2, .block-3, .block-4, .block-5 {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    margin: 10px;
+    float: left;
+}
+
+.block-1 {
+    border-color: blueviolet;
+}
+
+.block-2 {
+    border-color: blueviolet;
+}
+
+.block-3 {
+    border-color: blueviolet;
+}
+
+.block-4 {
+    border-color: blueviolet;
+}
+
+.block-5 {
+    border-color: blueviolet;
+}

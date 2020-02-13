@@ -3,6 +3,12 @@ h1 {
     color: #f50000;
 }
 
+h2, h3, h4, h5, h6 {
+    text-align: center;
+    color: #f50000;
+    font-size: 30px;
+}
+
 
 body {
     background-color: #b3c6ff;
@@ -11,8 +17,10 @@ body {
     margin: 50px;
 }
 
-div.a{
+.a{
     text-indent: 20px;
+    width: 25%;
+    margin: 100px auto;
 }
 
 strong {
@@ -20,6 +28,10 @@ strong {
     text-align: center;
 }
 
+.intro {
+    color: blue;
+    font-size: 25px;
+}
 p {
     text-align: center;
 }

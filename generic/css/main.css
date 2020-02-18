@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+#containter {
+    background-color: greenyellow;
+    width: 75%;
+    margin: 100px auto;
+}
+
+h1.google {
+    font-weight: 400; 
+    font-size: 100;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Knewave', cursive;
+}
+
+h2.adobe {
+    font-family: alexander-quill, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}

@@ -1,4 +1,29 @@
-a {
-    word-spacing: 10px;
+body{    
+    background-image: linear-gradient(to bottom right, rgb(250, 210, 159), rgb(255, 142, 142),  rgb(247, 130, 212));;     
+    height: 100%;     
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 326px;
+
+    text-align: center;
+    text-size-adjust: 30px;
+    font-size: 30px;
     
 }
+
+a {
+    word-spacing: 0px;    
+    text-decoration: none;
+    color:rgb(0, 0, 0) ; 
+}
+
+p{
+    margin: 0 0 10 0;
+}
+
+a:hover{
+    
+    font-size: 50px;
+    color: rgb(191, 245, 189);
+}
+

@@ -15,18 +15,19 @@ body {
 
 .block-1 {
     border-color: blueviolet;
-    width: 100px;
+    width: 250px;
     height: 100px;
-    border-radius: 30%;
-    margin: 30px;
+    border-radius: 90%;
+    margin: 100px;
 }
 
 .block-2 {
     border-color: rgb(214, 37, 37);
     width: 100px;
     height: 100px;
-    margin: 80px;
-    border-bottom-left-radius: 100px;
+    
+    border-top-left-radius: 100px;
+    border-radius: 45px ;
 }
 
 .block-3 {
@@ -47,10 +48,10 @@ body {
 }
 
 .block-5 {
-    border-color: rgb(185, 57, 117);
-    width: 100px;
+    border-color: blueviolet;
+    width: 250px;
     height: 100px;
-    border-right: crimson;
+    border-radius: 90%;
     margin: 100px;
 
 }

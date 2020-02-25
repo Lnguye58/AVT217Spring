@@ -1,0 +1,37 @@
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+body {
+    
+    height: 100%;     
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* background-color: rgba(102, 187, 144, 0.986); */
+
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+
+    /* 1 number = control all margins
+       2 number = first number control top + bot, second number control left + right
+       3 number = first number control top, second number control left + right, third number control bot
+       4 number = top, right, bottom, left (In order of number) */
+}
+
+#images {
+    background-image: linear-gradient(-45deg ,rgb(147, 221, 211),  rgb(98, 83, 231));;     
+       
+    background-size: 400% 400%;
+    margin: 0;
+    text-align: center;
+
+}
+
+
+#images img {
+    max-width: 100%;
+    margin: 25px 0;
+}

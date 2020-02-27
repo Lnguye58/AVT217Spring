@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    background-color:rgb(255, 194, 229);
+    
+}
+
+.board{
+    width: 800px;
+    margin: 100px auto;
+}
+
+.red, .white {
+    width: 100px;
+    height: 100px;    
+    float: left;
+}
+
+.red{    
+    background-color:rgb(225, 130, 253);    
+}
+
+.white{    
+    background-color:rgb(204, 255, 122);    
+}

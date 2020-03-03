@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background-color: rgb(148, 169, 238);
+  }
+
+  .container {
+    width: 900px;
+    margin: 100px auto;
+  }
+
+  .header, .pic, .caption, .text {
+    float: left;
+    background-color: rgb(255, 85, 7);
+  }
+
+  .header {
+    width: 900px;
+    height: 100px;
+    margin-bottom: 75px;    
+  }
+
+  .pic {
+    width: 700px;
+    height: 300px;
+    margin-right: 15px;    
+  }
+
+  .caption {
+    width: 700px;
+    height: 50px;
+    margin-top: 15px;
+    margin-bottom: 75px;    
+  }
+
+  .text {
+    width: 185px;
+    height: 200px;    
+  }
+  

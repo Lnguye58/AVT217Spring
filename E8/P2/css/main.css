@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(148, 169, 238);
+}
+
 .container {
     width: 900px;
     margin: 100px auto ;
@@ -5,7 +9,7 @@
 
 .header, .subhead, .col, .footer{    
     float: left;
-    background-color: rgb(7, 255, 48);
+    background-color: rgb(255, 85, 7);
 }
 
 .margin25 {
@@ -25,11 +29,11 @@
 
 .col{
     width: calc((100% - 50px) / 3);
-    height: 200px      
+    height: 500px      
 }
 
 .footer{
     width: 100%;
-    height: 40px;
+    height: 100px;
     margin: 25px 0;    
 }

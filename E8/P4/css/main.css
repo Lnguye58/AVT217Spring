@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    background-color: rgb(148, 169, 238);
+}
+
+.tenniscourt{
+    width: 800px;
+    height: 1000px;
+    margin: 100px auto;
+}
+
+.uppercourt{
+    width: 800px;
+    height: 495px;
+    margin-bottom: 15px;
+}
+
+.toppart{
+    margin: 0 15px;
+    width: 550px;
+    height: 500px;
+    float: left;
+}
+
+.allside, .top-mid, .blocks, .bottombar{
+    
+    background-color:  rgb(255, 85, 7);
+    float: left;
+}
+
+.allside{
+    width: 100px;
+    height: 500px;   
+    float: left;
+}
+
+.top-mid{
+    width: 550px;
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+.blocks{
+    width: 267px;
+    height: 435px;   
+}
+
+.rightblock{
+    margin-right: 15px;
+}
+
+
+.bottombar{
+    width: 550px;
+    height: 50px;
+    margin-top: 15px;
+}
+
+
+
+
+

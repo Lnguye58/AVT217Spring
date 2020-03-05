@@ -1,0 +1,35 @@
+body {
+    
+    height: 100%;     
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* background-color: rgba(102, 187, 144, 0.986); */
+
+    color: rgb(74, 91, 241);
+    font-family: alexander-quill, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 50px;
+
+    /* 1 number = control all margins
+       2 number = first number control top + bot, second number control left + right
+       3 number = first number control top, second number control left + right, third number control bot
+       4 number = top, right, bottom, left (In order of number) */
+}
+
+#images {
+    background-image: linear-gradient(-45deg, rgb(97, 90, 189), rgb(243, 77, 235), rgb(120, 221, 134),  rgb(201, 41, 223));;     
+       
+    background-size: 400% 400%;
+    margin: 0;
+    text-align: center;
+
+}
+
+
+#images img {
+    max-width: 100%;
+    margin: 25px 0;
+}

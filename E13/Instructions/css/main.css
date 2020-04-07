@@ -1,0 +1,14 @@
+body{    
+   
+    margin: 0, 20px, 0, 20px;
+    text-align: center;
+    text-size-adjust: 30px;
+    font-size: 30px;
+    background-color: rgb(175, 175, 250);
+    
+}
+
+
+ul {
+    list-style-type: decimal;
+}

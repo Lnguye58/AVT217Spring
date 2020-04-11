@@ -1,26 +1,9 @@
-a {
-    text-decoration: none;
-}
-
-ul {
-    list-style-type: none;
-}
-
 body {
     
-    background-image: linear-gradient(-45deg, rgb(149, 142, 245), rgb(154, 252, 255), rgb(120, 221, 134));;       
-    background-size: 400% 400%;
-    margin: 0;
-    text-align: center;
-
     height: 100%;     
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin: 326px;
-    text-align: center;
-    text-size-adjust: 30px;
-    font-size: 30px;
 
     /* background-color: rgba(102, 187, 144, 0.986); */
 
@@ -32,4 +15,19 @@ body {
        2 number = first number control top + bot, second number control left + right
        3 number = first number control top, second number control left + right, third number control bot
        4 number = top, right, bottom, left (In order of number) */
+}
+
+#images {
+    background-image: linear-gradient(-45deg, rgb(149, 142, 245), rgb(154, 252, 255), rgb(120, 221, 134));;     
+       
+    background-size: 400% 400%;
+    margin: 0;
+    text-align: center;
+
+}
+
+
+#images img {
+    max-width: 100%;
+    margin: 25px 0;
 }
